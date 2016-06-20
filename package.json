@@ -1,0 +1,15 @@
+{
+  "name": "bot-challenge",
+  "version": "1.0.0",
+  "description": "a bot challenger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Langens <flowofcontrol@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "botbuilder": "^1.0.1",
+    "restify": "^4.1.1"
+  }
+}
